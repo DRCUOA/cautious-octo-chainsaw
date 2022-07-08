@@ -17,7 +17,7 @@
 
 | Step | Description | Status | Contributors |
 | ---- | ----------- | ------ | ------------ |
-| Agree scope | Decide on the broad scope for the project | Done 1/7/22 | Rich/Leanne/Max |
+| Agree scope | Decide on the broad scope for the project | Done 1/7/22 | Rich/Leigh-anne/Max |
 | Set requirements | Open to all to propose requirements within the broad scope | OPEN | TBC | 
 | Produce a wireframe | Scratch-design, including look and feel and design-view of functionality to meet requirements   | Not started | TBC | 
 | Divide-up dev work | break-up code required and get cracking!  | Not started | TBC |
