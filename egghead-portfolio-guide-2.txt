@@ -1,0 +1,28 @@
+The word “portfolio” is most commonly associated with art and design, and carries very visual connotations.
+
+This doesn’t mean you need to deck out your site with animations and other flourishes.
+
+In fact, I’d suggest the opposite route.
+
+The most important function of your site is to provide a place for you to showcase the skills you have in an area that you want to work in.
+
+The easiest way to meet this goal is with a clean, minimal design that focuses on your text.
+
+If you’re building based on a blog starter, you’re probably set to go. Many of them include nice fonts and a dark mode toggle “for free”.
+
+Spend your time working on completing a portfolio project and case study instead of tweaking designs.
+
+That said, when the time is right to customize your site, it’s amazing how much of a difference fonts and accent colors can make! As is par for the course, there are tons of places around the internet where you can draw inspiration from and end up in analysis paralysis yet again.
+
+In terms of design tweaks, my suggestions here are fontjoy.com and colorable.jxnblk.com.
+
+Font Joy is a project from Jack Qiao that generates font pairings for headings, subheads, and body text at the click of a button. When you see one you like, lock it in!
+
+Colorable from jxnblk will generate a random pair of colors. From there, you can play with sliders to customize them further.
+
+As a general rule, try to keep text as black on white and use colors as accents for links or logos.
+
+⚡️ 10 Minute Challenge
+Find a set of fonts and colors using Font Joy and Random A11y, and make note of them for later when the time comes to customize your site. Don’t get too sidetracked clicking those buttons!
+
+Also, in case you haven’t yet, share your site with our team. We are happy to take a look!
